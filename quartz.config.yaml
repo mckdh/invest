@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: "Ryan's Invest"
-  pageTitleSuffix: " | 투자 노트"
+  pageTitleSuffix: " | Investment Notes"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: google
     tagId: G-WS085SLSE4
-  locale: ko-KR
+  locale: en-US
   baseUrl: mckdh.github.io/invest
   ignorePatterns:
     - private
@@ -161,6 +161,7 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
+      title: "Explorer"
       folderDefaultState: open
       sortFn: |
         (a, b) => {

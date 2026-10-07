@@ -6,11 +6,7 @@ title: "From Index ETFs to Day Trading: My 5-Year Journey"
 
 I started investing in 2020 during the COVID rally. Like many beginners, I bought SPY, QQQ, and jumped on the Tesla train. Prices kept going up, and I made the classic rookie mistake: mistaking a historic bull market for personal skill.
 
-> [!quote] 🤡 **Meme: Putting on Clown Makeup**
-> - *Step 1:* Buy SPY and Tesla in 2020.  
-> - *Step 2:* Watch portfolio hit +40%.  
-> - *Step 3:* "Maybe I'm just a natural-born Wall Street prodigy."  
-> - *Step 4:* Turns out it was just a historic, zero-interest-rate bull market.
+![[attachments/meme-clown-bull-market.png]]
 
 ### 1. Life and the 3-Year Break
 In 2022, my wife and I had twins. Diapers, feedings, and sleepless nights took over overnight. For three years, investing moved straight to the back burner—I added zero new cash and barely opened my brokerage app.
@@ -29,9 +25,7 @@ Why day trade? Two straightforward reasons:
 1. **Sleeping in cash:** Closing trades before the bell means zero overnight risk. No checking futures at dinner or waking up anxious about global headlines.
 2. **Career hedge in the AI era:** As a programmer watching AI accelerate, building an independent secondary skill makes sense. Averaging $300 a day would cover a solid chunk of my family's living expenses in Edmonton.
 
-> [!tip] 🛌 **Meme: The Drake Reaction**
-> ❌ **Top:** Holding leveraged positions overnight & checking futures at 3:00 AM  
-> ✅ **Bottom:** Closing all trades before the bell & sleeping peacefully in cash
+![[attachments/meme-drake-cash-overnight.png]]
 
 ### 4. Where I Stand Today
 I'm not quitting my tech job or chasing quick riches. A lucky green day is easy; staying consistent through bad days, commissions, and drawdowns is the real hurdle. 
