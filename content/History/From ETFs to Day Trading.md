@@ -1,9 +1,6 @@
 ---
 title: "From Index ETFs to Day Trading: My 5-Year Journey"
 ---
-
-# From Index ETFs to Day Trading: My 5-Year Journey
-
 I started investing in 2020 during the COVID rally. Like many beginners, I bought SPY, QQQ, and jumped on the Tesla train. Prices kept going up, and I made the classic rookie mistake: mistaking a historic bull market for personal skill.
 
 ![[attachments/meme-clown-bull-market.png]]
