@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mckdh.github.io/invest/sitemap.xml
+Sitemap: https://mckdh.github.io/invest/sitemap.txt
